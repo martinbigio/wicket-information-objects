@@ -6,16 +6,16 @@ This project is a proof of concept trying to simplify change introduction into s
 Copyright
 ---------
 
-    Copyright (c) 2008
-     - ITBA - HTTP://www.itba.edu.ar
+    Copyright (c) 2012
+     - ITBA <http://www.itba.edu.ar>
      - Pablo Abad <pabad@itba.edu.ar>
      - Rafael Martín Bigio <rbigio@itba.edu.ar>
      - Lionel Castiglioni <lcastig@itba.edu.ar>
 
-    Wicket Information Objects is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+    Wicket Information Objects is free software: you can redistribute it
+    and/or modify it under the terms of the GNU General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
 
     Segmentation is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
