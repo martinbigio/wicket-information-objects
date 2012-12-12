@@ -1,0 +1,26 @@
+<wicket:panel>
+	<div wicket:id="fields" class="detail"/>
+
+	<wicket:fragment wicket:id="inlineField">
+		<div class="field">
+			<label><span wicket:id="key"/>:</label>
+			<span wicket:id="value" style="float: left;"/>
+		</div>
+	</wicket:fragment>
+	
+	<wicket:fragment wicket:id="compoundField">
+		<fieldset class="compoundField">
+			<legend><span wicket:id="key" /></legend>
+			<div wicket:id="value"/>
+		</fieldset>
+	</wicket:fragment>
+	
+	<wicket:fragment wicket:id="collectionField">
+		<div class="field">
+			<label><span wicket:id="key"/>:</label>
+			<div class="container">
+				<table class="table" wicket:id="table" />
+			</div>
+		</div>
+	</wicket:fragment>
+</wicket:panel>
